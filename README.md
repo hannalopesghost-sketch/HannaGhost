@@ -15,6 +15,8 @@ Atualmente estou estudando e desenvolvendo minhas habilidades em programação, 
 
 Meu objetivo é me tornar uma **Engenheira de Software** e continuar evoluindo na área de desenvolvimento.
 
+estou estudando apenas phython.
+
 ## 🚀 Atualmente aprendendo
 
 - 🎮 Desenvolvimento de Jogos
